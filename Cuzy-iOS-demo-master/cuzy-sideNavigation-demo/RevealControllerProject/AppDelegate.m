@@ -15,7 +15,7 @@
 @synthesize viewController = _viewController;
 @synthesize frontViewController;
 
-//Test 123 dasgjdsa
+//Test 123 dasgjdsa tests
 static void uncaughtExceptionHandler(NSException *exception) {
     
     NSLog(@"CRASH: %@", exception);
